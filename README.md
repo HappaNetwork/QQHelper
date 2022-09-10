@@ -1,6 +1,6 @@
 # Happa Helper  QQ
 
-dylib在
+dylib在Releases
 
 **特别谢鸣**
 
